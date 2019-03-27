@@ -1,0 +1,35 @@
+body{
+	background-color: #e9ebee;
+	margin: 0;
+}
+.header{
+	background-color: #46629e;
+	padding: 10px 20px;
+	color: white;
+	font-family: arial;
+}
+.site-title{
+	font-family: arial;
+	font-size: 40px;
+	color: white;
+	margin-left: 140px;
+}
+h2{
+	font-size: 40px;
+	font-family: arial;
+
+}
+.content-left{
+	float: left;
+}
+.content-right{
+	float: right;
+	padding: 0 100px;
+	
+}
+p{
+	font-family: arial;
+	font-size: 20px;
+	margin: 40px;
+}
+

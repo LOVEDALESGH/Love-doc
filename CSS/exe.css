@@ -1,0 +1,49 @@
+body{
+	background: white
+
+}
+h1{
+	font-family: tahoma;
+	color: green;
+	text-decoration: underline;
+
+}
+.A1{
+	color: blue;
+}
+.A2{
+	color: green;
+}
+.A3{
+	color: purple;
+}
+.A4{
+	color: gray;
+}
+.A5{
+	color: red};
+
+.A6{
+	color: gold;
+}
+.love{
+	text-decoration: underline; 
+}
+.C2{
+	text-decoration: underline;
+}
+.F1{
+	font-family: cursive;
+}
+.F2{
+	font-family: arial;
+}
+.F3{
+	font-family: calibri;
+}
+.F4{
+	font-family: algerian;
+}
+table{
+	border: 1px solid black;
+}

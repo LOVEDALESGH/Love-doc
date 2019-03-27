@@ -1,0 +1,45 @@
+body{
+	margin-left: 80px;
+}
+.header{
+	background-color: brown;
+	padding: 20px 20px;
+	height: 400px;
+}
+h1{
+	color: white;
+	padding: 20px 10px;
+	text-align: left;
+	margin-left: 40px;
+	font-size: 50px;
+}
+input{
+	background: black;
+	border-color: white;
+	color: white;
+	text-align: center;
+	padding: -20px;
+	margin-left: 100px;
+}
+.V1{
+	float: right; 
+	padding: -400px;
+}
+.V3{
+	margin-right: 300px;
+	display: inline-block;
+}
+.V4{
+	margin-right: 80px;
+	display: inline-block;
+}
+.V5{
+	margin-left: 100px;
+	float: right;
+}
+.V2{
+	margin-left: 400px;
+}
+p{
+  font-size: 25px;
+}

@@ -1,0 +1,18 @@
+body{
+	background-color: white; 
+	margin-left: 120px;
+	margin-right: 80px;
+}
+.D1{
+	background-color: aliceblue;
+	text-align: center;
+}
+.D2{
+	background-color: #faebd7;
+	text-align: center; 
+}
+button{
+	background: skyblue;
+	border-radius: 5px;
+
+}

@@ -1,0 +1,46 @@
+body{
+	background-color: #e9ebee;
+	margin: 0;
+}
+.header{
+	background-color: #46629e;
+	padding: 10px 20px;
+}
+.H1{
+	font-family: arial;
+	font-size: 40px;
+	color: white;
+	margin-left: 140px;
+}
+.CR{
+	float: right;
+	margin-right: 100px; 
+}
+.CL{
+	margin-left: 100px;
+	padding: -5px;
+}
+h3{
+	margin-left: 100px;
+	padding: 35px;
+}
+.PR{
+	text-align: right;
+	margin-top: -40px;
+	margin-right: 80px;
+
+}
+.f1{
+	float: right;
+	margin-top: -80px;
+}
+.love1{
+	background-color: green;
+	color: white;
+	border-radius: 5px;
+}
+.B1{
+	border-radius: 5px;
+}
+
+

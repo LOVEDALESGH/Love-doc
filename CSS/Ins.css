@@ -1,0 +1,28 @@
+body{
+	background-color: #fafafa;  
+}
+.B1{
+	background-color: #fff;
+	border: 1px solid #e6e6e6;
+	float: right;
+	margin-right: 300px;
+	text-align: center;
+	padding-right: 60px;
+	padding-left: 60px;
+}
+.Z{
+	background-color: #3897f0;
+	color: white;
+	text-align: center;
+	border-radius: 5px;
+	max-width: 400px;
+}
+h1{
+	font-size: 40px;
+	font-family: cursive;
+}
+.M{
+	background-color: #fafafa;
+	width: 200px;
+	
+}
